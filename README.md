@@ -1,2 +1,2 @@
 # Strava-data
-Using python to analyse strava data
+Using Python to analyse strava data
